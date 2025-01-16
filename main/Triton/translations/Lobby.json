@@ -291,28 +291,32 @@
         "en_GB": "Your Profile",
         "zh_CN": "你的账户"
       }
-    },{
+    },
+    {
       "key": "ppc.lobby.menu.profileinfo",
       "type": "text",
       "languages": {
         "en_GB": "Profile Info",
         "zh_CN": "账户信息"
       }
-    },{
+    },
+    {
       "key": "ppc.lobby.menu.level",
       "type": "text",
       "languages": {
         "en_GB": "Level",
         "zh_CN": "等级"
       }
-    },{
+    },
+    {
       "key": "ppc.lobby.menu.rank",
       "type": "text",
       "languages": {
         "en_GB": "Rank",
         "zh_CN": "权限"
       }
-    },{
+    },
+    {
       "key": "ppc.lobby.menu.points",
       "type": "text",
       "languages": {
@@ -351,8 +355,7 @@
         "en_GB": "Click to view store url",
         "zh_CN": "点击查看商店链接"
       }
-    }
-    ,
+    },
     {
       "key": "ppc.lobby.item.visible.show",
       "type": "text",
@@ -360,8 +363,7 @@
         "en_GB": "&fPlayers: &aVisible &7(Right-Toggle)",
         "zh_CN": "&f玩家: &a显示 &7(右键切换)"
       }
-    }
-    ,
+    },
     {
       "key": "ppc.lobby.item.visible.hide",
       "type": "text",
@@ -369,8 +371,7 @@
         "en_GB": "&fPlayers: &cHidden &7(Right-Toggle)",
         "zh_CN": "&f玩家: &c隐藏 &7(右键切换)"
       }
-    }
-    ,
+    },
     {
       "key": "ppc.lobby.item.enderpearl",
       "type": "text",
@@ -378,14 +379,29 @@
         "en_GB": "&dEnder Pearl &7(Right-Click)",
         "zh_CN": "&d末影珍珠 &7(右键使用)"
       }
-    }
-    ,
+    },
     {
       "key": "ppc.lobby.item.store",
       "type": "text",
       "languages": {
         "en_GB": "&aServer Store &7(Right-Click)",
         "zh_CN": "&a服务器商店 &7(右键打开)"
+      }
+    },
+    {
+      "key": "ppc.lobby.item.leavequeue",
+      "type": "text",
+      "languages": {
+        "en_GB": "&cLeave Queue",
+        "zh_CN": "&c离开匹配"
+      }
+    },
+    {
+      "key": "ppc.lobby.item.g-rightclick-s2",
+      "type": "text",
+      "languages": {
+        "en_GB": "&7(Right-Click)",
+        "zh_CN": "&7(右键点击)"
       }
     }
   ]

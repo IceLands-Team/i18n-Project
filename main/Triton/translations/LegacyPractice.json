@@ -205,6 +205,14 @@
       }
     },
     {
+      "key": "shot.boxing.combo",
+      "type": "text",
+      "languages": {
+        "en_GB": "Combo",
+        "zh_CN": "连击"
+      }
+    },
+    {
       "key": "ppc.prac-1.title.inmatch.winner",
       "type": "text",
       "languages": {
@@ -314,6 +322,270 @@
       "languages": {
         "en_GB": "Online",
         "zh_CN": "在线人数"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.spectate.random",
+      "type": "text",
+      "languages": {
+        "en_GB": "Spectate Random Match",
+        "zh_CN": "观战随机比赛"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.spectate.menu",
+      "type": "text",
+      "languages": {
+        "en_GB": "Spectate Menu",
+        "zh_CN": "观战菜单"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.party.create",
+      "type": "text",
+      "languages": {
+        "en_GB": "Create Party",
+        "zh_CN": "创建队伍"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.spectator.enable",
+      "type": "text",
+      "languages": {
+        "en_GB": "Enable Spectator Mode",
+        "zh_CN": "启用观察者模式"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.spectator.disable",
+      "type": "text",
+      "languages": {
+        "en_GB": "Disable Spectator Mode",
+        "zh_CN": "禁用观察者模式"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.manage",
+      "type": "text",
+      "languages": {
+        "en_GB": "Manage PotPvP",
+        "zh_CN": "管理 PotPvP"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.unfollow",
+      "type": "text",
+      "languages": {
+        "en_GB": "Stop Following",
+        "zh_CN": "停止跟随"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.statistics",
+      "type": "text",
+      "languages": {
+        "en_GB": "Statistics",
+        "zh_CN": "统计"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.event.host",
+      "type": "text",
+      "languages": {
+        "en_GB": "Host an Event",
+        "zh_CN": "举办活动"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.bot.duel",
+      "type": "text",
+      "languages": {
+        "en_GB": "Bot Duel",
+        "zh_CN": "机器人对战"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.navigator",
+      "type": "text",
+      "languages": {
+        "en_GB": "Navigator",
+        "zh_CN": "竞技场主菜单"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.play.again",
+      "type": "text",
+      "languages": {
+        "en_GB": "Play Again",
+        "zh_CN": "再玩一次"
+      }
+    },
+    {
+      "key": "ppc.prac-1.item.g-rightclick",
+      "type": "text",
+      "languages": {
+        "en_GB": "(Right Click)",
+        "zh_CN": "(右键点击)"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.edit.kits",
+      "type": "text",
+      "languages": {
+        "en_GB": "Edit Kits",
+        "zh_CN": "编辑套装"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.queue.casual",
+      "type": "text",
+      "languages": {
+        "en_GB": "&aCasual Queue",
+        "zh_CN": "&a休闲队列"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.queue.unranked.leave",
+      "type": "text",
+      "languages": {
+        "en_GB": "Leave Unranked Queue",
+        "zh_CN": "离开非排名队列"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.queue.ranked",
+      "type": "text",
+      "languages": {
+        "en_GB": "&cRanked Queue",
+        "zh_CN": "&c排名队列"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.queue.ranked.leave",
+      "type": "text",
+      "languages": {
+        "en_GB": "Leave Ranked Queue",
+        "zh_CN": "离开排名队列"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.queue.party.unranked.join",
+      "type": "text",
+      "languages": {
+        "en_GB": "Join 2v2 Unranked Queue",
+        "zh_CN": "加入2v2非排名队列"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.queue.party.unranked.leave",
+      "type": "text",
+      "languages": {
+        "en_GB": "Leave 2v2 Unranked Queue",
+        "zh_CN": "离开2v2非排名队列"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.queue.party.ranked.join",
+      "type": "text",
+      "languages": {
+        "en_GB": "Join 2v2 Ranked Queue",
+        "zh_CN": "加入2v2排名队列"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.queue.party.ranked.leave",
+      "type": "text",
+      "languages": {
+        "en_GB": "Leave 2v2 Ranked Queue",
+        "zh_CN": "离开2v2排名队列"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.spawn.division",
+      "type": "text",
+      "languages": {
+        "en_GB": "Division",
+        "zh_CN": "段位"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.spawn.clan",
+      "type": "text",
+      "languages": {
+        "en_GB": "Clan",
+        "zh_CN": "公会"
+      }
+    },
+    {
+      "key": "ppctitle.prac1",
+      "type": "text",
+      "languages": {
+        "en_GB": "&f❖ &b&lPractice &f❖",
+        "zh_CN": "&f❖ &b&l对战竞技场 &f❖"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.rival-1",
+      "type": "text",
+      "languages": {
+        "en_GB": "&fOpponent: &b",
+        "zh_CN": "&f你的对手: &b"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.rival-2",
+      "type": "text",
+      "languages": {
+        "en_GB": "&fRival: &b",
+        "zh_CN": "&f对手: &b"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.ping",
+      "type": "text",
+      "languages": {
+        "en_GB": "&fPing: &a",
+        "zh_CN": "&f延迟: &a"
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.duration",
+      "type": "text",
+      "languages": {
+        "en_GB": "&fElapsed Time: &b",
+        "zh_CN": "&f比赛持续时间: &b"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.duration",
+      "type": "text",
+      "languages": {
+        "en_GB": "&fDuration: &b",
+        "zh_CN": "&f持续时间: &b"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.kit",
+      "type": "text",
+      "languages": {
+        "en_GB": "&fKit: &e",
+        "zh_CN": "&f套装: &e"
+      }
+    },
+    {
+      "key": "ppc.prac-1.lang.mode",
+      "type": "text",
+      "languages": {
+        "en_GB": "&fMode: ",
+        "zh_CN": "&f模式: "
+      }
+    },
+    {
+      "key": "ppc.prac-1.sb.played",
+      "type": "text",
+      "languages": {
+        "en_GB": "Played",
+        "zh_CN": "游戏中"
       }
     }
   ]
